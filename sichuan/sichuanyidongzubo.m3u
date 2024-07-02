@@ -1,0 +1,83 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="中国功夫" tvg-name="NEWTV国功夫" tvg-logo="https://live.fanmingming.com/tv/NEWTV中国功夫.png" group-title="本地高清",NEWTV中国功夫
+http://117.177.180.53:8888/udp/239.11.0.151:5140
+#EXTINF:-1 tvg-id="家庭剧场" tvg-name="NEWTV家庭剧场" tvg-logo="https://live.fanmingming.com/tv/NEWTV家庭剧场.png" group-title="本地高清",NEWTV家庭剧场
+http://117.177.180.53:8888/udp/239.11.0.131:5140
+#EXTINF:-1 tvg-id="精品纪录" tvg-name="NEWTV精品纪录" tvg-logo="https://live.fanmingming.com/tv/NEWTV精品纪录.png" group-title="本地高清",NEWTV精品纪录
+http://117.177.180.53:8888/udp/239.11.0.132:5140
+#EXTINF:-1 tvg-id="精品体育" tvg-name="NEWTV精品体育" tvg-logo="https://live.fanmingming.com/tv/NEWTV精品体育.png" group-title="本地高清",NEWTV精品体育
+http://117.177.180.53:8888/udp/239.11.0.134:5140
+#EXTINF:-1 tvg-id="军事评论" tvg-name="NEWTV军事评论" tvg-logo="https://live.fanmingming.com/tv/NEWTV军事评论.png" group-title="本地高清",NEWTV军事评论
+http://117.177.180.53:8888/udp/239.11.0.136:5140
+#EXTINF:-1 tvg-id="古装剧场" tvg-name="NEWTV古装剧场" tvg-logo="https://live.fanmingming.com/tv/NEWTV古装剧场.png" group-title="本地高清",NEWTV古装剧场
+http://117.177.180.53:8888/udp/239.11.0.141:5140
+#EXTINF:-1 tvg-id="动作电影" tvg-name="NEWTV动作电影" tvg-logo="https://zjykfy.github.io/ykfy/tv/NewTV-动作电影.png" group-title="本地高清",NEWTV动作电影
+http://117.177.180.53:8888/udp/239.11.0.142:5140
+#EXTINF:-1 tvg-id="惊悚悬疑" tvg-name="NEWTV惊悚悬疑" tvg-logo="https://live.fanmingming.com/tv/NEWTV惊悚悬疑.png" group-title="本地高清",NEWTV惊悚悬疑
+http://117.177.180.53:8888/udp/239.11.0.144:5140
+#EXTINF:-1 tvg-id="爱情喜剧" tvg-name="NEWTV爱情喜剧" tvg-logo="https://zjykfy.github.io/ykfy/tv/NewTV爱情喜剧.png" " group-title="本地高清",NEWTV爱情喜剧
+http://117.177.180.53:8888/udp/239.11.0.149:5140
+#EXTINF:-1 tvg-id="精品大剧" tvg-name="NEWTV精品大剧" tvg-logo="https://live.fanmingming.com/tv/NEWTV精品大剧.png" group-title="本地高清",NEWTV精品大剧
+http://117.177.180.53:8888/udp/239.11.0.150:5140
+#EXTINF:-1 tvg-id="金牌综艺" tvg-name="NEWTV金牌综艺" tvg-logo="https://live.fanmingming.com/tv/NEWTV金牌综艺.png" group-title="本地高清",NEWTV金牌综艺
+http://117.177.180.53:8888/udp/239.11.0.152:5140
+#EXTINF:-1 tvg-id="高清影院" tvg-name="高清影院" tvg-logo="https://live.fanmingming.com/tv/高清影院.png" group-title="本地高清",天府高清影院
+http://117.177.180.53:8888/udp/239.10.0.188:5140
+#EXTINF:-1 tvg-id="经典再现" tvg-name="经典再现" tvg-logo="https://live.fanmingming.com/tv/经典再现.png" group-title="本地高清",天府经典再现
+http://117.177.180.53:8888/udp/239.10.0.130:5140
+#EXTINF:-1 tvg-id="军旅谍战" tvg-name="军旅谍战" tvg-logo="https://live.fanmingming.com/tv/军旅谍战.png" group-title="本地高清",天府军旅谍战
+http://117.177.180.53:8888/udp/239.10.0.131:5140
+#EXTINF:-1 tvg-id="教育综合" tvg-name="教育综合" tvg-logo="https://live.fanmingming.com/tv/教育综合.png" group-title="本地高清",天府教育综合
+http://117.177.180.53:8888/udp/239.10.0.136:5140
+#EXTINF:-1 tvg-id="辣妈学院" tvg-name="辣妈学院" tvg-logo="https://live.fanmingming.com/tv/辣妈学院.png" group-title="本地高清",天府辣妈学院
+http://117.177.180.53:8888/udp/239.10.0.137:5140
+#EXTINF:-1 tvg-id="风尚美食" tvg-name="风尚美食" tvg-logo="https://live.fanmingming.com/tv/风尚美食.png" group-title="本地高清",天府风尚美食
+http://117.177.180.53:8888/udp/239.10.0.138:5140
+#EXTINF:-1 tvg-id="健康生活" tvg-name="健康生活" tvg-logo="https://live.fanmingming.com/tv/健康生活.png" group-title="本地高清",天府健康生活
+http://117.177.180.53:8888/udp/239.10.0.139:5140
+#EXTINF:-1 tvg-id="魔力荟萃" tvg-name="魔力荟萃" tvg-logo="https://live.fanmingming.com/tv/魔力荟萃.png" group-title="本地高清",天府魔力荟萃
+http://117.177.180.53:8888/udp/239.10.0.140:5140
+#EXTINF:-1 tvg-id="时尚天地" tvg-name="时尚天地" tvg-logo="https://live.fanmingming.com/tv/时尚天地.png" group-title="本地高清",天府时尚天地
+http://117.177.180.53:8888/udp/239.10.0.141:5140
+#EXTINF:-1 tvg-id="星动娱乐" tvg-name="星动娱乐" tvg-logo="https://live.fanmingming.com/tv/星动娱乐.png" group-title="本地高清",天府星动娱乐
+http://117.177.180.53:8888/udp/239.10.0.142:5140
+#EXTINF:-1 tvg-id="时尚生活" tvg-name="时尚生活" tvg-logo="https://live.fanmingming.com/tv/时尚生活.png" group-title="本地高清",天府时尚生活
+http://117.177.180.53:8888/udp/239.10.0.144:5140
+#EXTINF:-1 tvg-id="魔力TV" tvg-name="魔力TV" tvg-logo="https://live.fanmingming.com/tv/魔力TV.png" group-title="本地高清",天府魔力TV
+http://117.177.180.53:8888/udp/239.10.0.145:5140
+#EXTINF:-1 tvg-id="积木宝贝" tvg-name="积木宝贝" tvg-logo="https://live.fanmingming.com/tv/积木宝贝.png" group-title="本地高清",天府积木宝贝
+http://117.177.180.53:8888/udp/239.10.0.157:5140
+#EXTINF:-1 tvg-id="启蒙乐园" tvg-name="启蒙乐园" tvg-logo="https://live.fanmingming.com/tv/启蒙乐园.png" group-title="本地高清",天府启蒙乐园
+http://117.177.180.53:8888/udp/239.10.0.158:5140
+#EXTINF:-1 tvg-id="人文纪录" tvg-name="人文纪录" tvg-logo="https://live.fanmingming.com/tv/人文纪录.png" group-title="本地高清",天府人文纪录
+http://117.177.180.53:8888/udp/239.10.0.166:5140
+#EXTINF:-1 tvg-id="电竞世界" tvg-name="电竞世界" tvg-logo="https://live.fanmingming.com/tv/电竞世界.png" group-title="本地高清",天府电竞世界
+http://117.177.180.53:8888/udp/239.10.0.167:5140
+#EXTINF:-1 tvg-id="天府TV-综合" tvg-name="天府TV-综合" tvg-logo="https://live.fanmingming.com/tv/天府TV-综合.png" group-title="本地高清",天府TV-综合
+http://117.177.180.53:8888/udp/239.10.0.189:5140
+#EXTINF:-1 tvg-id="历史再现" tvg-name="历史再现" tvg-logo="https://live.fanmingming.com/tv/历史再现.png" group-title="本地高清",历史再现
+http://117.177.180.53:8888/udp/239.10.0.207:5140
+#EXTINF:-1 tvg-id="情感热播" tvg-name="情感热播" tvg-logo="https://live.fanmingming.com/tv/情感热播.png" group-title="本地高清",情感热播
+http://117.177.180.53:8888/udp/239.10.0.202:5140
+#EXTINF:-1 tvg-id="我看剧场" tvg-name="我看剧场" tvg-logo="https://live.fanmingming.com/tv/我看剧场.png" group-title="本地高清",我看剧场
+http://117.177.180.53:8888/udp/239.10.0.204:5140
+#EXTINF:-1 tvg-id="峥嵘岁月" tvg-name="峥嵘岁月" tvg-logo="https://live.fanmingming.com/tv/峥嵘岁月.png" group-title="本地高清",峥嵘岁月
+http://117.177.180.53:8888/udp/239.10.0.205:5140
+#EXTINF:-1 tvg-id="青春在线" tvg-name="青春在线" tvg-logo="https://live.fanmingming.com/tv/青春在线.png" group-title="本地高清",青春在线
+http://117.177.180.53:8888/udp/239.10.0.206:5140
+#EXTINF:-1 tvg-id="宏伟巨献" tvg-name="宏伟巨献" tvg-logo="https://live.fanmingming.com/tv/宏伟巨献.png" group-title="本地高清",宏伟巨献
+http://117.177.180.53:8888/udp/239.10.0.208:5140
+#EXTINF:-1 tvg-id="阳光日记" tvg-name="阳光日记" tvg-logo="https://live.fanmingming.com/tv/阳光日记.png" group-title="本地高清",阳光日记
+http://117.177.180.53:8888/udp/239.10.0.209:5140
+#EXTINF:-1 tvg-id="酷乐卡通" tvg-name="酷乐卡通" tvg-logo="https://live.fanmingming.com/tv/酷乐卡通.png" group-title="本地高清",酷乐卡通
+http://117.177.180.53:8888/udp/239.10.0.214:5140
+#EXTINF:-1 tvg-id="快乐假期" tvg-name="快乐假期" tvg-logo="https://live.fanmingming.com/tv/快乐假期.png" group-title="本地高清",快乐假期
+http://117.177.180.53:8888/udp/239.10.0.215:5140
+#EXTINF:-1 tvg-id="奇趣动漫" tvg-name="奇趣动漫" tvg-logo="https://live.fanmingming.com/tv/奇趣动漫.png" group-title="本地高清",奇趣动漫
+http://117.177.180.53:8888/udp/239.10.0.216:5140
+#EXTINF:-1 tvg-id="欢乐启蒙" tvg-name="欢乐启蒙" tvg-logo="https://live.fanmingming.com/tv/欢乐启蒙.png" group-title="本地高清",欢乐启蒙
+http://117.177.180.53:8888/udp/239.10.0.217:5140
+#EXTINF:-1 tvg-id="玩具乐园" tvg-name="玩具乐园" tvg-logo="https://live.fanmingming.com/tv/玩具乐园.png" group-title="本地高清",玩具乐园
+http://117.177.180.53:8888/udp/239.10.0.218:5140
+#EXTINF:-1 tvg-id="趣乐探险" tvg-name="趣乐探险" tvg-logo="https://live.fanmingming.com/tv/趣乐探险.png" group-title="本地高清",趣乐探险
+http://117.177.180.53:8888/udp/239.10.0.219:5140
